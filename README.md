@@ -1,6 +1,6 @@
 ## 颜色选择器
 
-![](/Users/liumingyi/Documents/Projects-Python/PickColor/pic_colors.jpeg)
+![](/pic_colors.jpeg)
 
 点击相应的颜色即可复制颜色代码。
 
