@@ -10,7 +10,7 @@ Link：https://material.io/design/color/the-color-system.html#tools-for-picking-
 
 ---
 
-使用 py2app 将Python脚本为 .app 应用。
+使用 py2app 将Python脚本转为 .app 应用。
 
 期间遇到一个小插曲，生成的 .app 一直不可用。
 
